@@ -3,6 +3,6 @@
  
 🎮 I’m interested in Game development.  
 
-🌱 I’m currently learning C++, Unreal and expanding my personal unity toolset. [unity-lambda](https://github.com/lufvilla/unity-lambda)  
+🌱 I’m currently learning C++, Unreal and expanding my personal unity toolset "[unity-lambda](https://github.com/lufvilla/unity-lambda)"  
 
 📫 If something catched your attention here, feel free to reach me on linkedin.  
