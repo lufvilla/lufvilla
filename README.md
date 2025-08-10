@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I’m Lucas Fernandez </h1> </br>
 <p align="center">💻 A passionate Software Engineer who loves to design and develop games as well as game-focused applications.</p>
 <p align="center">🎮 Interested in Game development. </p>
-<p align="center">🌱 Currently learning C++, Unreal and expanding my personal unity toolset "unity-lambda".</p>
+<p align="center">🌱 Currently learning C++, Unreal and as always experimenting with Unity and Godot</p>
 <p align="center">📫 If something catched your attention, feel free to reach me out.</p>
  
 
